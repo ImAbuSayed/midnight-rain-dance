@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-rain-dance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Midnight Rain Dance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-rain-dance/) |
+| **Get License** | [Obtain a Music License for Midnight Rain Dance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-rain-dance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight rain is falling on the street
+> Washing away the shadows in the dark
+> I just want to sweep you off your feet
+> Come and leave a fire in my heart
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

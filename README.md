@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-rain-dance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Midnight Rain Dance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-rain-dance/) |
+| **Get License** | [Request Licensing for Midnight Rain Dance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-rain-dance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `717a67a5821a09733cbb52162e9dd77d078af8e58b080d86b495699c5c5819d1` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
